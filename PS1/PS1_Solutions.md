@@ -2,7 +2,7 @@
 
 **Q2) Area of a circle**
 
-```
+```py
 def area(r):
     A = pi*r**2
     print(A)
@@ -14,7 +14,7 @@ area(radius)
 
 **Q3) Body-mass index**
 
-```
+```py
 def bmi(w, h):
     return w/(2.54*h/100)**2
 
@@ -25,7 +25,7 @@ print("%.2f" % bmi(weight, height))
 
 **Q4) Operations on a 2D-plane**
 
-```
+```py
 def slope(x1,x2,y1,y2):
     return (y2-y1)/(x2-x1)
 
@@ -41,7 +41,7 @@ print(distance(xa,xb,ya,yb))
 
 **Q5) Ideal gas equation**
 
-```
+```py
 def cel_to_fah(c):
     return 1.8*c + 32
 
