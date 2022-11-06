@@ -1,4 +1,4 @@
-#Q1) Letter Grade Calculator
+**Q1) Letter Grade Calculator**
 
 **Related subjects:** Parametrized functions, conditional statements, I/O operations
 
@@ -16,7 +16,7 @@ Max Score | 100 | 84.99 | 64.99 | 39.99 | 19.99
 Min Score | 85.00 | 65.00 | 40.00 | 20.00 | 0 
 
 
-#Q2) Simple ATM
+**Q2) Simple ATM**
 
 **Related subjects:** Nested conditional statements, I/O operations
 
@@ -29,7 +29,7 @@ The current account balance must be displayed after withdrawal and deposit opera
 If the PIN is incorrect, the withdrawal request is higher than the limit and there is not enough money to deposit;
 then the user must be logged off.
 
-#Q3) Prime or not
+**Q3) Prime or not**
 
 **Related subjects:** Conditional statements, for loop, I/O operations
 
