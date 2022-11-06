@@ -7,8 +7,7 @@ and calculates the letter grade regarding weight of grading factors.
 Note that this course contains 28 classes in total and if the student attends at least 80% of these classes,
 then the student is awarded with 2 bonus points.
 
-MT-1	MT-2	Project 	HW	CW	Quizzes	Final
-15%	    20%	    8%		    6%	6%	10%		35%
+Grading: MT-1 (15%),MT-2 (20%), Project (8%), HW (6%), CW (6%), Quizzes (10%), Final (35%)
 
 100.0 – 85	A
 84.99 – 65	B
