@@ -1,5 +1,30 @@
 # PS-1 Solutions
 
+```py
+metamorphosis = open("samsa.txt", "x") 
+
+paragraph = open("samsa.txt", "w") 
+paragraph.write("As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect. \nHe was lying on his hard, as it were armor-plated, \nback and when he lifted his head a little he could see his dome-like brown belly divided into stiffarched segments \non top of which the bed quilt could hardly keep in position and was about to slide off completely. \nHis numerous legs, which were pitifully thin compared to the rest of his bulk, waved helplessly before his eyes.")
+paragraph.close()
+
+paragraph = open("samsa.txt", "r") 
+print(paragraph.read()) 
+paragraph.close() 
+
+paragraph = open("samsa.txt", "r") 
+print(paragraph.readline()) 
+print(paragraph.readline()) 
+paragraph.close() 
+
+paragraph = open("samsa.txt", "a") 
+paragraph.write("\n------- END OF THE PARAGRAPH -------") 
+paragraph.close() 
+
+paragraph = open("samsa.txt", "r") 
+print(paragraph.read()) 
+paragraph.close()
+```
+
 **Q2) Area of a circle**
 
 ```py
