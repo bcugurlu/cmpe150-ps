@@ -1,5 +1,7 @@
 # PS-1 Solutions
 
+**Q1) Gregor Samsa from “The Metamorphosis”**
+
 ```py
 metamorphosis = open("samsa.txt", "x") 
 
