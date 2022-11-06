@@ -1,6 +1,5 @@
 # PS-1 Solutions
 
-
 ```py
 metamorphosis = open("samsa.txt", "x") 
 
