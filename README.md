@@ -8,5 +8,5 @@ For your inquiries about the problem sessions please do not hesitate to contact 
 
 PS | Topics
 --- | ---
-1 | Functions, file handling
+1 | Functions <br> File handling
 2 | Conditional statements <br> "for" loops
