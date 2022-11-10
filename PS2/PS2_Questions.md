@@ -22,6 +22,8 @@ attendance scores, and calculates the letter grade regarding weight of grading f
 that this course contains 28 classes in total and if the student attends at least 80% of these 
 classes, then the student is awarded with 2 bonus points.
 
+Both numerical and letter grades should be displayed.
+
 Grading | MT-1 | MT-2 | Project | HW | CW | Quiz | Final
 --- | --- | --- | --- | --- | --- | --- | ---
 Percentage | 15% | 20% | 8% | 6% | 6% | 10% | 35%
