@@ -7,4 +7,5 @@ Questions, which are solved during our PS hours, and their solutions are located
 For your inquiries about the problem sessions please do not hesitate to contact me via "burak.ugurlu1@boun.edu.tr".
 
 **PS-1:** Functions
+
 **PS-2:** Conditional statements, for loops
