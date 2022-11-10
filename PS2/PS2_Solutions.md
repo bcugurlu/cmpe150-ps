@@ -45,6 +45,7 @@ classwork = int(input())
 quiz = int(input())
 final = int(input())
 attendance = int(input())
+
 print(letter_grade_generator(mt1, mt2, project, homework, classwork, quiz, final, attendance))
 ```
 
@@ -64,12 +65,14 @@ else:
     op = int(input())
     if op == 1:
         print(balance)
+        
     elif op == 2:
         wd_request = int(input("Withdrawal request: "))
         if wd_request > 5000:
             print("Your withdrawal request is higher than the withdrawal limit. Goodbye!")
         else:
             print(balance-wd_request, "TRY")
+
     elif op == 3:
         dep_request = int(input("Deposit request: "))
         print(balance + dep_request, "TRY")
