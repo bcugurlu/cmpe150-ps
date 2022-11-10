@@ -20,9 +20,9 @@ elif op == "/":
 **Q2) Letter grade calculator**
 
 ```py
-def letter_grade_generator(m1, m2, proj, hw, cw, q, f):
+def letter_grade_generator(m1, m2, proj, hw, cw, q, f, a):
     score = 0.15 * m1 + 0.2 * m2 + 0.08 * proj + 0.06 * hw + 0.06 * cw + 0.1 * q + 0.35 * f
-    if attendance / 28 >= 0.8:
+    if a / 28 >= 0.8:
         score += 2
     print(score)
     if score >= 85:
@@ -45,7 +45,7 @@ classwork = int(input())
 quiz = int(input())
 final = int(input())
 attendance = int(input())
-print(letter_grade_generator(mt1, mt2, project, homework, classwork, quiz, final))
+print(letter_grade_generator(mt1, mt2, project, homework, classwork, quiz, final, attendance))
 ```
 
 **Q3) Simple ATM**
@@ -72,10 +72,7 @@ else:
             print(balance-wd_request, "TRY")
     elif op == 3:
         dep_request = int(input("Deposit request: "))
-        if dep_request <= balance:
-            print(balance + dep_request, "TRY")
-        else:
-            print("Your deposit request is higher than your balance. Goodbye!")
+        print(balance + dep_request, "TRY")
     else:
         print("Invalid operation request, goodbye!")
 ```

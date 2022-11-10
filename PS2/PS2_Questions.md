@@ -47,8 +47,7 @@ the choice of the user.
 
 The current account balance must be displayed after withdrawal and deposit operations. 
 
-If the PIN is incorrect, the withdrawal request is higher than the limit and there is not enough money to deposit; 
-then the user must be logged off.
+If the PIN is incorrect or the withdrawal request is higher than the limit, then the user must be logged off.
 
 **Q4) Sum of odd numbers**
 
