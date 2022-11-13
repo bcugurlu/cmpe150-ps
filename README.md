@@ -10,4 +10,4 @@ PS | Date | Topics
 --- | --- | ---
 1 | Nov 2 | Functions <br> File handling
 2 | Nov 10 | Conditional statements <br> "for" loops
-3 | Nov 17 | "for" loops
+3 | Nov 17 | Conditional statements <br> "for" loops
