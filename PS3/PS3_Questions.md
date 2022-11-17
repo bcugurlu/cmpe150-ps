@@ -11,7 +11,7 @@ Input | Output
 
 **Q2) Largest number**
 
-Write a program that takes five integers and decides which is the largest number.
+Write a program that takes five positive integers and decides which is the largest number.
 
 **Q3) Hooping numbers**
 
