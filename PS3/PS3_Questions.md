@@ -49,7 +49,11 @@ Input | Output
 5 <br> 2 <br> 10 <br> 20 <br> 1 <br> 7 | 149.38 <br> 7.50 <br> 42.50 <br> 50.00
 4 <br> 53 <br> 7 <br> 56 <br> 999 | 120.35 <br> 0.00 <br> 0.63 <br> 99.37
 
-**Q5) Rectangles**
+**Q5) Multiplication table**
+
+Write a program that prints a 9x9 multiplication table of the integers from 1 to 9.
+
+**Q6) Rectangles**
 
 **a)** Write a program that takes two integers as the number of rows and columns 
 of a rectangle, then prints it.
@@ -67,7 +71,7 @@ Input | Output
 5 <br> 3 | ooo <br> o_o <br> o_o <br> o_o <br> ooo
 3 <br> 2 | oo <br> oo <br> oo
 
-**Q6) Powers**
+**Q7) Powers**
 
 Write a program that takes two integers as base number and exponent, then
 prints the results as given below.
