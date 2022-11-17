@@ -53,6 +53,14 @@ Input | Output
 
 Write a program that prints a 9x9 multiplication table of the integers from 1 to 9.
 
+Output format:
+
+1 2 3 4 5 6 7 8 9 
+
+2 4 6 8 10 12 14 16 18 
+
+3 6 9 12 15 18 21 24 27
+
 **Q6) Rectangles**
 
 **a)** Write a program that takes two integers as the number of rows and columns 
