@@ -10,13 +10,26 @@ When the guessed value is in the interval [X-2, X+2], but not equal to X, then g
 
 ### **Q2) Remove A**
 
-Given several integers, write a program to remove all occurrences of a given number A and print the modified list of these integers.
+Given several integers in a row, write a program to remove all occurrences of a given number A and print the modified list of these integers.
+
+Input | Output
+--- | ---
+1 2 3 3 3 4 4 5 5 5 5 6 7 8 8 8 9 9 <br> 5 | [1, 2, 3, 3, 3, 4, 4, 6, 7, 8, 8, 8, 9, 9]
 
 ### **Q3) Duplicate Elements**
 
-**a)** Given several integers, write a program to print the list of these integers without duplicate elements.
+**a)** Given several integers in a row, write a program to print the list of these integers without duplicate elements.
 
-**b)** Given several integers, write a program to find the number of occurrences of elements that occur at least three times.
+Input | Output
+--- | ---
+1 2 3 3 3 4 4 5 5 5 5 6 7 8 8 8 9 9 | [1, 2, 3, 4, 5, 6, 7, 8, 9]
+23 34 27 18 27 10 11 6 11 11 8 | [23, 34, 27, 18, 10, 11, 6, 8]
+
+**b)** Given several integers in a row, write a program to find the number of occurrences of elements that occur at least three times.
+
+Input | Output
+--- | ---
+1 2 3 3 3 4 4 5 5 5 5 6 7 8 8 8 9 9 | 3 3 <br> 5 4 <br> 8 3
 
 ### **Q4) Transpose of a Matrix**
 
