@@ -11,4 +11,4 @@ PS | Date | Topics
 1 | Nov 2 | Functions <br> File handling
 2 | Nov 10 | Conditional statements <br> "for" loops
 3 | Nov 17 | "for" loops
-4 | Dec 1 | "for" loops <br> Random numbers <br> Lists
+4 | Dec 1 | Random numbers <br> Lists <br> "for" loops 
