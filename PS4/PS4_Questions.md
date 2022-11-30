@@ -26,6 +26,4 @@ Write a program that takes an integer (M), then takes a MxN matrix, and prints t
 
 Write a program that takes an integer (N) and prints N rows of Pascal's triangle.
 
-**Hint:** 
-
-![](../../../Downloads/1_xTRTevX8_emXVd1upaF_lQ@2x.png)
+**Hint:** [https://www.mathsisfun.com/numbers/images/pascals-triangle-n-choose-k.svg](https://www.mathsisfun.com/numbers/images/pascals-triangle-n-choose-k.svg)
