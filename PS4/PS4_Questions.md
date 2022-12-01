@@ -37,7 +37,7 @@ Write a program that takes an integer (M), then takes a MxN matrix, and prints t
 
 Input | Output
 --- | ---
-3  <br> 1 2 3 4 5 6  <br> 7 8 9 10 11 12 <br> 13 14 15 16 17 18 | 1 7 13  <br> 2 8 14 <br> 3 9 15  <br> 4 10 16 <br> 5 11 17 <br> 6 13 18
+3  <br> 1 2 3 4 5 6  <br> 7 8 9 10 11 12 <br> 13 14 15 16 17 18 | 1 7 13  <br> 2 8 14 <br> 3 9 15  <br> 4 10 16 <br> 5 11 17 <br> 6 12 18
 ### **Q5) Pascal's Triangle**
 
 Write a program that takes an integer (N) and prints N rows of Pascal's triangle.
