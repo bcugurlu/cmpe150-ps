@@ -12,3 +12,4 @@ PS | Date | Topics
 2 | Nov 10 | Conditional statements <br> "for" loops
 3 | Nov 17 | "for" loops
 4 | Dec 1 | Random numbers <br> Lists <br> "for" loops 
+5 | Dec 8 | Review: Data structures <br> (No online PS for this week, recording will be directly uploaded to YouTube.)
