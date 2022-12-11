@@ -58,12 +58,16 @@ for i in range(len(mov_lst)):
     movie = mov_lst[i][1].split(" (")[0]
     year = mov_lst[i][1].split(" (")[1]
     single_mov_dict = {"movie": movie, "genre": mov_lst[i][2], "year": year.replace(")", "")}
-    mov_dict[i+1] = single_mov_dict
+    mov_dict[i] = single_mov_dict
 
 request = input()
 
-for j in range(1, len(mov_dict)+1):
-    if mov_dict[j]["movie"] == request:
-        print(mov_dict[j]["genre"])
+for j in range(len(mov_dict)):
+    if request == mov_dict[j]["movie"]:
         print(mov_dict[j]["year"])
+        print(mov_dict[j]["genre"])
+    elif request == mov_dict[j]["year"]:
+        print(mov_dict[j]["movie"])
+    elif request == mov_dict[j]["genre"]:
+        print(mov_dict[j]["movie"])
 ```

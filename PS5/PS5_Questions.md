@@ -13,6 +13,8 @@ Hint:
 
 * Singles = Hits - Doubles - Triples - Homeruns
 * Total Bases = Singles + 2xDoubles + 3xTriples
+* Batting Average = Hits / At Bats
+* Slugging Average = Total Bases / At Bats
 
 Input | Output
 --- | ---
@@ -33,5 +35,5 @@ If it is a year, display all movies published in this year.
 Input | Output
 --- | ---
 1992 | Waiting to Exhale <br> American President <br> Casino <br> Four Rooms
-Toy Story | 199 <br> Animation
+Toy Story | 1995 <br> Animation
 Animation | Toy Story <br> Balto
