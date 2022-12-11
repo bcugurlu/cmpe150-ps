@@ -30,7 +30,8 @@ Elements on these lines are separated by commas as follows:
 1,Toy Story (1995),Animation
 
 Write a program that takes a request as an input. If it is a movie, display its publishing year and genre. If it is a genre, display all movies in this genre.
-If it is a year, display all movies published in this year.
+If it is a year, display all movies published in this year. In this program you should get the raw data and turn it into a dictionary
+that contains the keys "movie", "year" and "genre".
 
 Input | Output
 --- | ---
