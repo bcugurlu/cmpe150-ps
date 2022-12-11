@@ -9,6 +9,11 @@ Player's Name; Team Identifier; Games Played; At Bats; Runs Scored; Hits; Double
 
 Write a program that takes a request and a positive integer (N) as inputs. Then, it should print the players who has top N maximum hits/batting average/slugging average.
 
+Hint: 
+
+* Singles = Hits - Doubles - Triples - Homeruns
+* Total Bases = Singles + 2xDoubles + 3xTriples
+
 Input | Output
 --- | ---
 MAX HITS <br> 3 | Miguel Cabrera <br> Torii Hunter <br> Shin-Soo Choo
