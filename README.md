@@ -12,4 +12,5 @@ PS | Date | Topics
 2 | Nov 10 | Conditional statements <br> "for" loops
 3 | Nov 17 | "for" loops
 4 | Dec 1 | Random numbers <br> Lists <br> "for" loops 
-5 | - | Lists <br> Dictionaries
+5 | Offline | Lists <br> Dictionaries
+6 | Offline | "while" loops
