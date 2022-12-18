@@ -14,3 +14,4 @@ PS | Date | Topics
 4 | Dec 1 | Random numbers <br> Lists <br> "for" loops 
 5 | Offline | Lists <br> Dictionaries
 6 | Offline | "while" loops
+7 | Offline | Dictionaries
