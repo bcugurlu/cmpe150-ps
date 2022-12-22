@@ -15,4 +15,4 @@ PS | Date | Topics
 5 | Offline | Lists <br> Dictionaries
 6 | Offline | while loops
 7 | Offline | Dictionaries
-8 | TBA | Review
+8 | Dec 23 | Review
