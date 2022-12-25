@@ -1,4 +1,4 @@
-# Cmpe 150 PS Archive - Fall 2022
+# CmpE 150 PS Archive - Fall 2022
 
 Welcome!
 
