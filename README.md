@@ -4,8 +4,6 @@ Welcome!
 
 Questions, which are solved during our PS hours, and their solutions are located in related PS folders.
 
-For your inquiries about the problem sessions please do not hesitate to contact me via "burak.ugurlu1@boun.edu.tr".
-
 PS | Date | Topics
 --- | --- | ---
 1 | Nov 2 | Functions <br> File handling
